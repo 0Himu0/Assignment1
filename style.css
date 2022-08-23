@@ -1,0 +1,148 @@
+.body {
+  margin: 0px;
+}
+.top1 {
+  text-align: center;
+  background-image: url(images/donation5.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  margin: 0;
+  font-size: 20px;
+  font-weight: bolder;
+  color: white;
+  padding-top: 5%;
+  padding-left: 25%;
+  padding-right: 25%;
+  padding-bottom: 10%;
+}
+.btn {
+  text-decoration: none;
+  background-image: linear-gradient(orange, red);
+  padding: 10px 40px;
+  color: white;
+  border-radius: 5px;
+}
+
+.image1 {
+  background-image: url("/images/donation5.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  justify-content: center;
+}
+.line {
+  font-size: 40px;
+  color: rgb(108, 179, 188);
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.link-button-a {
+  text-decoration: none;
+  background-image: linear-gradient(orange, red);
+  padding: 10px 40px;
+  color: white;
+  border-radius: 5px;
+}
+
+.middle {
+  font-size: 40px;
+}
+.row1 {
+  font-family: "Roboto Condensed", sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#item1 {
+  background-color: rgb(224, 192, 165);
+  width: 310px;
+  height: 310px;
+  margin: 10px;
+  border-radius: 5px;
+  padding: 20px;
+}
+#item2 {
+  background-color: rgb(208, 229, 159);
+
+  width: 310px;
+  height: 310px;
+  margin: 10px;
+  border-radius: 5px;
+  padding: 20px;
+}
+#item3 {
+  background-color: rgb(160, 205, 231);
+
+  width: 310px;
+  height: 310px;
+  margin: 10px;
+  border-radius: 5px;
+  padding: 20px;
+}
+.part1 {
+  display: flex;
+}
+.part2 {
+  display: flex;
+}
+#max-1 {
+  font-family: "Lobster", cursive;
+  font-size: 30px;
+}
+.half1 {
+  font-family: "Roboto Condensed", sans-serif;
+  /* width: 300%; */
+  padding: 50px 50px 50px 50px;
+  width: 50%;
+}
+.link-button-a {
+  text-decoration: none;
+  background-image: linear-gradient(orange, red);
+  padding: 10px 40px;
+  color: white;
+  border-radius: 5px;
+}
+.half11 img {
+  padding-left: 40px;
+  width: 80%;
+}
+.half2 {
+  font-family: "Roboto Condensed", sans-serif;
+  width: 300%;
+  padding: 50px 50px 50px 50px;
+}
+.link-button-b {
+  text-decoration: none;
+  background-image: linear-gradient(orange, red);
+  padding: 10px 40px;
+  color: white;
+  border-radius: 5px;
+}
+.half2 img {
+  width: 85%;
+}
+.ending {
+  background-color: black;
+  color: white;
+  padding: 20px;
+  margin: 0;
+}
+.half22 {
+  padding-right: 8%;
+}
+.mail {
+  text-decoration: none;
+  background-image: linear-gradient(rgb(225, 195, 138), rgb(223, 155, 155));
+  padding-left: 15%;
+  border-radius: 10px;
+  margin: 50px 300px 50px 300px;
+}
+
+.button1 {
+  text-decoration: none;
+  background-image: linear-gradient(orange, red);
+  padding: 10px 40px;
+  color: white;
+  border-radius: 5px;
+}
